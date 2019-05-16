@@ -1,0 +1,15 @@
+turn3
+cross3
+turn4
+turn3
+turn4
+cross2
+turn2
+cross2
+cross1
+cross4
+turn1
+straight1
+cross1
+straight1
+turn2
